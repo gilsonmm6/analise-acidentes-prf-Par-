@@ -47,7 +47,7 @@ O projeto combina análise exploratória, modelagem estatística avançada e pre
 
 | Curva ROC + Calibração da Validação Temporal |
 |---|
-| ![](relatorios/nb03_curva_roc_calibracao.png) |
+| ![](relatorios/nb03_curva_roc_calibracao) |
 
 | Projeção por Rodovia 2026 | Mapa de Risco Preditivo 2026 |
 |---|---|
